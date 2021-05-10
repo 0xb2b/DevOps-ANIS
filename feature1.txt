@@ -1,2 +1,2 @@
 New file added on feature1 branch
-- updated from shell
+- updated and fixed conflicts
