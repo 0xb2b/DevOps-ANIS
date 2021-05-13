@@ -1,3 +1,4 @@
 New file added on feature1 branch
 - updated and fixed conflicts
 - integrated with Jenkins
+- added cat README.md in Jenkins
